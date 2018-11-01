@@ -6,4 +6,3 @@
 * npm install
 * ionic server -lc
 
-juliano@petronetto.com.br
